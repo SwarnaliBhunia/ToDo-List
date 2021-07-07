@@ -1,4 +1,4 @@
-# ToDo-List
+# ToDo-List :clipboard: :pencil2: 
 it is a todo list where you can jot down what all activities you are going to do during the day.
 This is built using HTML,CSS and JavaScript
 # Working
